@@ -3,10 +3,11 @@
 </p>
 <p align="center">(Android/iOS)</p>
 <h1 align="center">BrewCrew</h1>
+<p align="center" style="fontweight: bold">A Coffee ordering and distributing app for the companies employees(Self Learning Project)</p>
 
 <p align="center"> 
-  <a href="https://github.com/itssudhanshu/CareIndia/blob/master/CareIndia_v1.0.0_Light.apk?raw=true">
-    <img src="https://img.shields.io/badge/Download App-CareIndia-blue.svg?style=for-the-badge">
+  <a href="https://github.com/itssudhanshu/BrewCrew-App/blob/master/app-release.apk?raw=true">
+    <img src="https://img.shields.io/badge/Download App-BrewCrew-brown.svg?style=for-the-badge">
   </a> 
 </p>
 
@@ -127,8 +128,8 @@ class AuthService {
 
 Apk Link:   
 
- <a href="https://github.com/itssudhanshu/CareIndia/blob/master/CareIndia_v1.0.0_Light.apk?raw=true">
-    <img src="https://img.shields.io/badge/Download App-CareIndia-blue.svg?style=for-the-badge">
+ <a href="https://github.com/itssudhanshu/BrewCrew-App/blob/master/app-release.apk?raw=true">
+    <img src="https://img.shields.io/badge/Download App-BrewCrew-brown.svg?style=for-the-badge">
   </a>  
 
 <h3>Building</h3>
